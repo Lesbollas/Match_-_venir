@@ -1,22 +1,11 @@
 id,sport_key,sport_title,commence_time,completed,home_team,away_team,scores,last_update
-531d20117534fd3c01006e0975875013,basketball_nba,NBA,2023-03-26 19:41:02+00:00,True,Los Angeles Lakers,Chicago Bulls,"[{'name': 'Los Angeles Lakers', 'score': '108'}, {'name': 'Chicago Bulls', 'score': '118'}]",2023-03-27T08:39:37Z
-1867e987bc44fa959429c2a90b6cc9ef,basketball_nba,NBA,2023-03-26 22:10:00+00:00,True,Atlanta Hawks,Memphis Grizzlies,"[{'name': 'Atlanta Hawks', 'score': '119'}, {'name': 'Memphis Grizzlies', 'score': '123'}]",2023-03-27T08:39:37Z
-efce9f2eb21b00ae3e7b3760a2b16c09,basketball_nba,NBA,2023-03-26 22:10:00+00:00,True,Toronto Raptors,Washington Wizards,"[{'name': 'Toronto Raptors', 'score': '114'}, {'name': 'Washington Wizards', 'score': '104'}]",2023-03-27T08:39:37Z
-68bfc3bcadf5050a87da23e9fd0d18b2,basketball_nba,NBA,2023-03-26 22:10:29+00:00,True,Orlando Magic,Brooklyn Nets,"[{'name': 'Orlando Magic', 'score': '119'}, {'name': 'Brooklyn Nets', 'score': '106'}]",2023-03-27T08:39:37Z
-b49439e3d4db1ee9f7f03ce56e6f485c,basketball_nba,NBA,2023-03-26 22:10:42+00:00,True,Boston Celtics,San Antonio Spurs,"[{'name': 'Boston Celtics', 'score': '137'}, {'name': 'San Antonio Spurs', 'score': '93'}]",2023-03-27T08:39:37Z
-0ba2cf421a1132ca809db461ea064c48,basketball_nba,NBA,2023-03-26 22:11:34+00:00,True,Cleveland Cavaliers,Houston Rockets,"[{'name': 'Cleveland Cavaliers', 'score': '108'}, {'name': 'Houston Rockets', 'score': '91'}]",2023-03-27T08:39:37Z
-ab57098f5ee70b5a3861ab52a65b201a,basketball_nba,NBA,2023-03-26 23:12:48+00:00,True,Portland Trail Blazers,Oklahoma City Thunder,"[{'name': 'Portland Trail Blazers', 'score': '112'}, {'name': 'Oklahoma City Thunder', 'score': '118'}]",2023-03-27T08:39:37Z
-e04b76903914957dc0aaf6920dc05eea,basketball_nba,NBA,2023-03-27 00:40:41+00:00,True,Golden State Warriors,Minnesota Timberwolves,"[{'name': 'Golden State Warriors', 'score': '96'}, {'name': 'Minnesota Timberwolves', 'score': '99'}]",2023-03-27T08:39:37Z
-22690e282a89e81bf8044a8b0067d565,basketball_nba,NBA,2023-03-27 23:00:00+00:00,False,Detroit Pistons,Milwaukee Bucks,,
-38076e8a60c19302820b62260471c4eb,basketball_nba,NBA,2023-03-27 23:10:00+00:00,False,Indiana Pacers,Dallas Mavericks,,
-8055e86f71d557471bf1d718d3bc45dd,basketball_nba,NBA,2023-03-27 23:30:00+00:00,False,New York Knicks,Houston Rockets,,
-f9bcfd1aeba6eba4186a88ad85a3ec01,basketball_nba,NBA,2023-03-28 01:00:00+00:00,False,Utah Jazz,Phoenix Suns,,
-02eda26e2023f9bef04a6cc4d2016f76,basketball_nba,NBA,2023-03-28 01:30:00+00:00,False,Denver Nuggets,Philadelphia 76ers,,
-70186cbc1d137b57edbc31a2b7027568,basketball_nba,NBA,2023-03-28 02:00:00+00:00,False,Sacramento Kings,Minnesota Timberwolves,,
-642a8381483f5b20e11e1056b2b230c6,basketball_nba,NBA,2023-03-28 02:00:00+00:00,False,Portland Trail Blazers,New Orleans Pelicans,,
-16572cbcceee30a35d3c0fd173c9c673,basketball_nba,NBA,2023-03-28 02:30:00+00:00,False,Los Angeles Clippers,Chicago Bulls,,
-e8516aa1bb15de4709922c30452aa96d,basketball_nba,NBA,2023-03-28 23:30:00+00:00,False,Toronto Raptors,Miami Heat,,
-12d68801c6ffaeaaeab0b7999e95a6f5,basketball_nba,NBA,2023-03-28 23:40:00+00:00,False,Atlanta Hawks,Cleveland Cavaliers,,
-d7f6e2cf0811e80c942277c04e288286,basketball_nba,NBA,2023-03-29 00:10:00+00:00,False,Oklahoma City Thunder,Charlotte Hornets,,
-e88b401e661c915e083d0198c73a9df1,basketball_nba,NBA,2023-03-29 00:10:00+00:00,False,Memphis Grizzlies,Orlando Magic,,
-25376b8328193364693948f0246dd5a6,basketball_nba,NBA,2023-03-29 02:00:00+00:00,False,Golden State Warriors,New Orleans Pelicans,,
+c9b7b6950982356193fb34a358eb2b02,soccer_france_ligue_two,Ligue 2 - France,2023-04-01 13:00:00+00:00,False,Saint Etienne,Niort,,
+19a5c80a9b766178e079943b051cb45a,soccer_france_ligue_two,Ligue 2 - France,2023-04-01 17:00:00+00:00,False,Grenoble,Amiens,,
+10ffe2bd91cbd1c4182b2121e5004ed8,soccer_france_ligue_two,Ligue 2 - France,2023-04-01 17:00:00+00:00,False,Nîmes Olympique,Annecy FC,,
+b1f016c5c0d1dd6c829d14c740eec998,soccer_france_ligue_two,Ligue 2 - France,2023-04-01 17:00:00+00:00,False,SM Caen,Dijon FCO,,
+2b6c95eb659a0c2d3e5630892fa9498b,soccer_france_ligue_two,Ligue 2 - France,2023-04-01 17:00:00+00:00,False,Pau FC,Le Havre,,
+3114e04e648906f8ec8cd0cc157a10fc,soccer_france_ligue_two,Ligue 2 - France,2023-04-01 17:00:00+00:00,False,Metz,Stade Lavallois,,
+0965a7c2bc853f84b906afd568706b0a,soccer_france_ligue_two,Ligue 2 - France,2023-04-01 17:00:00+00:00,False,Valenciennes,Paris FC,,
+23af3081fc7584c7ac9a949a8f677ab8,soccer_france_ligue_two,Ligue 2 - France,2023-04-01 17:00:00+00:00,False,Rodez AF,US Quevilly-Rouen,,
+e693756c7ef1ad80dcea06d4a3eda8da,soccer_france_ligue_two,Ligue 2 - France,2023-04-01 17:00:00+00:00,False,SC Bastia,Sochaux,,
+cf4de2ff0fe8596dcf9eec714dc57fad,soccer_france_ligue_two,Ligue 2 - France,2023-04-03 18:45:00+00:00,False,EA Guingamp,Bordeaux,,

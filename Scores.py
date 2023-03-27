@@ -16,10 +16,10 @@ def appeler_api (param):
     return(response.text)
 
 score = appeler_api("/scores")
-print (score)
+
 # Charger le fichier JSON dans un DataFrame
 df = pd.read_json(score)
 # Écrire le DataFrame dans un fichier CSV
 df.to_csv('fichier1.csv', index=False) 
 # Afficher les 10 premières lignes du DataFrame
-print(df.head)
+print(df.head)  
